@@ -1,4 +1,5 @@
 # Y2K CyberDeck
+![y2k-cyberdeck](https://github.com/user-attachments/assets/cb5af340-9242-4cf3-9e50-7ee75b20cb7d)
 
 I use **3mm acrylic** sheet for the case
 
